@@ -8,14 +8,14 @@ How to use:
 <li>The result will be displayed in the result field.</li>
 </ul>
 
-  Features:
-Simple, user-friendly interface.
-Can perform basic arithmetic operations.
-Can handle large numbers.
-Can handle negative numbers.
-Can handle decimal numbers.
+Features:
+<li>Simple, user-friendly interface.</li>
+<li>Can perform basic arithmetic operations.</li>
+<li>Can handle large numbers.</li>
+<li>Can handle negative numbers.</li>
+<li>Can handle decimal numbers.</li>
 
 Bugs and issues:
-No known bugs or issues.
+<li>No known bugs or issues.</li>
 Contributions and feedback:
-Please submit any bug reports or suggestions for improvements through the GitHub repository.
+<li>Please submit any bug reports or suggestions for improvements through the GitHub repository.</li>
