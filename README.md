@@ -1,4 +1,5 @@
-This simple calculator is made by a student to practice programming. It can perform arithmetic operations.
+<h1> Calculator4000 </h1>
+<p> This simple calculator is made by a student to practice programming. It can perform arithmetic operations.</p>
 How to use:
 Enter your numbers in the input field.
 Click the desired operation button.
