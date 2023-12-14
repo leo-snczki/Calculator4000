@@ -19,7 +19,7 @@ Features:
 
 Bugs and issues:
 <ul>
-<li>No known bugs or issues.</li>
+<li>Nah value for bhaskara.</li>
 </ul>
 Contributions and feedback:
 <ul>
